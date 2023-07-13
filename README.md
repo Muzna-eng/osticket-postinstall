@@ -31,26 +31,59 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-![image](https://github.com/Muzna-eng/post-install-config/assets/106114419/d5d049be-8e78-4e40-b53f-3c1664b95b0f)
-
+<img src="https://i.imgur.com/cS5dK4a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/leiNYXK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/0NJeOK1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p> 
+Under Admin Panel clicked on Agents, then clicked on roles and created Supreme Admin.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mCD0Lhp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created Systems Administrator under departments
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jcL0AdX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Added Level 2 Support Teams
+Allowed anyone to create tickets
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/g2RAAmT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configured two Agents
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/dGrsHeg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configured two Users
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ypvMrUz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configured SLAs
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/6D8rL2u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configured Help topics
 </p>
 <br />
